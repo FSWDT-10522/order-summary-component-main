@@ -1,4 +1,5 @@
 # Frontend Mentor - Order summary card
+https://fswdt-10522.github.io/order-summary-component-main/
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
